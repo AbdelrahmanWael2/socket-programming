@@ -1,0 +1,3 @@
+client_post test1.txt 127.0.0.1
+client_get Untitled.png 127.0.0.1
+client_get test2.txt 127.0.0.1
